@@ -24,9 +24,13 @@ doi: 10.1016/j.envsoft.2016.09.002
 
 - Khan, U., Tuteja, N.K., Sharma, A., 2013. Delineating hydrologic response units in large  upland catchments and its evaluation using soil moisture simulations. *Environmental Modelling & Software*, (46) 142-154.
  
-- Tuteja, N. K., Vaze, J., Murphy, B., Beale, G.T.B. 2004. CLASS: Catchment scale multiple landuse atmosphere soil water and solute transport model, Tech. Rep. 04/12, Coop. Res. Cent. for Catchment Hydrol., Canberra. <http://www.toolkit.net.au/Tools/CLASSU3M-1D/publications>.
-
 In addition, a manual describes the implementation of SMART in detail:
 
 - Ajami, H. U. Khan, N.k. Tuteja, A. Sharma.2015. Semi-Distributed Hydrologic Modelling with Soil Moisture and Runoff Toolkit (SMART) User’s Manual. Version 1.0. University of New South Wales, Sydney, Australia
+
+
+If use the 2-dimensional Richards’ equation based distributed hydrological model of SMART (U3M-2D), please credit the following publications:
+- Tuteja, N. K., Vaze, J., Murphy, B., Beale, G.T.B. 2004. CLASS: Catchment scale multiple landuse atmosphere soil water and solute transport model, Tech. Rep. 04/12, Coop. Res. Cent. for Catchment Hydrol., Canberra. <http://www.toolkit.net.au/Tools/CLASSU3M-1D/publications>.
+
+- Vaze, J., Tuteja, N.K., Teng, J.2004. CLASS Unsaturated Moisture Movement Model U3M-1D-User’s Manual, NSW Dep. of Infrastruct., Plann. and Nat. Resour., Sydney, Australia.
 
