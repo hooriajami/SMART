@@ -26,7 +26,7 @@ doi: 10.1016/j.envsoft.2016.09.002
  
 In addition, a manual describes the implementation of SMART in detail:
 
-- Ajami, H. U. Khan, N.k. Tuteja, A. Sharma.2015. Semi-Distributed Hydrologic Modelling with Soil Moisture and Runoff Toolkit (SMART) User’s Manual. Version 1.0. University of New South Wales, Sydney, Australia
+- Ajami, H. U. Khan, N.k. Tuteja, A. Sharma.2015. Semi-Distributed Hydrologic Modelling with Soil Moisture and Runoff Toolkit (SMART) User’s Manual. Version 1.0. 
 
 
 If use the 2-dimensional Richards’ equation based distributed hydrological model of SMART (U3M-2D), please credit the following publications:
