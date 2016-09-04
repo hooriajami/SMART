@@ -34,3 +34,6 @@ If use the 2-dimensional Richards’ equation based distributed hydrological mod
 
 - Vaze, J., Tuteja, N.K., Teng, J.2004. CLASS Unsaturated Moisture Movement Model U3M-1D-User’s Manual, NSW Dep. of Infrastruct., Plann. and Nat. Resour., Sydney, Australia.
 
+
+## License
+SMART is distributed under the GNU Public License Version 3.
