@@ -35,5 +35,12 @@ If use the 2-dimensional Richards’ equation based distributed hydrological mod
 - Vaze, J., Tuteja, N.K., Teng, J.2004. CLASS Unsaturated Moisture Movement Model U3M-1D-User’s Manual, NSW Dep. of Infrastruct., Plann. and Nat. Resour., Sydney, Australia.
 
 
+## Software Requirements
+- Microsoft Windows 7 operating system 
+- MATLAB 2014b or later release
+-	Terrain Analysis Using Digital Elevation Models (TauDEM) software developed by David G. Tarboton. The link to download the TauDEM package is (http://hydrology.usu.edu/taudem/). The command line version of TauDEM is used in SMART and users do not need ArcGIS license to use this software. 
+
+
+
 ## License
 SMART is distributed under the GNU Public License Version 3.
