@@ -14,6 +14,7 @@ To reduce the number of computational elements, simulations are performed across
 
 SMART pre- and post-processing scripts are written in **MATLAB** to automate the sub-basin, HRU and cross section delineations, model simulations across multiple cross sections, and to post-process model outputs. The MATLAB Parallel Processing Toolbox is used for simultaneous simulations of cross sections and is further reduced computational time.
 
+
 ## Credits
 If you use SMART, please credit these three following papers:
 - Ajami, H., Khan, U., Tuteja, N.K., Sharma, A.(Accepted). Development of a computationally efficient semi-distributed
@@ -40,6 +41,10 @@ If use the 2-dimensional Richards’ equation based distributed hydrological mod
 - MATLAB 2014b or later release
 -	Terrain Analysis Using Digital Elevation Models (TauDEM) software developed by David G. Tarboton. The link to download the TauDEM package is (http://hydrology.usu.edu/taudem/). The command line version of TauDEM is used in SMART and users do not need ArcGIS license to use this software. 
 
+
+## SMART Code Information:
+- SMART is written in MATLAB. The terrain processing steps are performed using the command line version of the TauDEM. 
+- The unsaturated zone hydrologic model, U3M-2D, is written in C#. The compiled version of the model is provided with the toolkit. 
 
 
 ## License
