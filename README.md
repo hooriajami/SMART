@@ -42,7 +42,7 @@ If use the 2-dimensional Richards’ equation based distributed hydrological mod
 -	Terrain Analysis Using Digital Elevation Models (TauDEM) software developed by David G. Tarboton. The link to download the TauDEM package is (http://hydrology.usu.edu/taudem/). The command line version of TauDEM is used in SMART and users do not need ArcGIS license to use this software. 
 
 
-## SMART Code Information:
+## SMART Code Information
 - SMART is written in MATLAB. The terrain processing steps are performed using the command line version of the TauDEM. 
 - The unsaturated zone hydrologic model, U3M-2D, is written in C#. The compiled version of the model is provided with the toolkit. 
 
