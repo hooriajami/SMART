@@ -17,7 +17,7 @@ SMART pre- and post-processing scripts are written in **MATLAB** to automate the
 
 ## Credits
 If you use SMART, please credit these three following papers:
-- Ajami, H., Khan, U., Tuteja, N.K., Sharma, A.(Accepted). Development of a computationally efficient semi-distributed
+- Ajami, H., Khan, U., Tuteja, N.K., Sharma, A.2016. Development of a computationally efficient semi-distributed
 hydrologic modeling application for soil moisture, lateral flow and runoff simulation. *Environmental Modelling & Software*.
 doi: 10.1016/j.envsoft.2016.09.002
 
@@ -27,7 +27,7 @@ doi: 10.1016/j.envsoft.2016.09.002
  
 In addition, a manual describes the implementation of SMART in detail:
 
-- Ajami, H. U. Khan, N.k. Tuteja, A. Sharma.2015. Semi-Distributed Hydrologic Modelling with Soil Moisture and Runoff Toolkit (SMART) User’s Manual. Version 1.0. 
+- Ajami, H. U. Khan, N.k. Tuteja, A. Sharma.2016. Semi-Distributed Hydrologic Modelling with Soil Moisture and Runoff Toolkit (SMART) User’s Manual. Version 1.0. 
 
 
 If use the 2-dimensional Richards’ equation based distributed hydrological model of SMART (U3M-2D), please credit the following publications:
