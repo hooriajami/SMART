@@ -35,6 +35,11 @@ If use the 2-dimensional Richards’ equation based distributed hydrological mod
 
 - Vaze, J., Tuteja, N.K., Teng, J.2004. CLASS Unsaturated Moisture Movement Model U3M-1D-User’s Manual, NSW Dep. of Infrastruct., Plann. and Nat. Resour., Sydney, Australia.
 
+Recent publications on SMART: 
+
+Khan, U., H. Ajami, N.K. Tuteja, A. Sharma, S. Kim. 2018. Catchment Scale Simulations of Soil Moisture Dynamics Using an Equivalent Cross-Section based Hydrological Modelling Approach, Journal of Hydrology. https://doi.org/10.1016/j.jhydrol.2018.07.066
+
+Ajami, H., A. Sharma. 2018. Disaggregating Soil Moisture to Finer Spatial Resolutions - A Comparison of Alternatives, Water Resources Research, https://doi.org/10.1029/2018WR022575
 
 ## Software Requirements
 - Microsoft Windows 7 operating system 
